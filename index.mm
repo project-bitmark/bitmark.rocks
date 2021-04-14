@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1426" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="1428" RULE="ON_BRANCH_CREATION"/>
 <font SIZE="18"/>
 <node TEXT="website" POSITION="left" ID="ID_1060112625" CREATED="1618386591344" MODIFIED="1618386933481">
 <icon BUILTIN="internet"/>
@@ -80,6 +80,13 @@
 <node TEXT="plots" ID="ID_696116134" CREATED="1618386794806" MODIFIED="1618386973287" LINK="https://explorer.bitmark.co/plots.week/"/>
 </node>
 </node>
+<node TEXT="community" POSITION="left" ID="ID_284041985" CREATED="1618391870340" MODIFIED="1618391877296">
+<icon BUILTIN="fema"/>
+<edge COLOR="#7c007c"/>
+<node TEXT="slack" ID="ID_1745960941" CREATED="1618392052207" MODIFIED="1618392056835" LINK="https://projectbitmark.slack.com/"/>
+<node TEXT="reddit" ID="ID_262634047" CREATED="1618391932248" MODIFIED="1618391934160" LINK="https://www.reddit.com/r/Bitmark/"/>
+<node TEXT="bitcoin talk forum thread" ID="ID_724372135" CREATED="1618391902100" MODIFIED="1618391914265" LINK="https://bitcointalk.org/index.php?topic=3169983.0"/>
+</node>
 <node TEXT="source" POSITION="right" ID="ID_1630806653" CREATED="1618386621727" MODIFIED="1618386825250">
 <icon BUILTIN="emoji-1F528"/>
 <edge COLOR="#7c0000"/>
@@ -89,6 +96,13 @@
 <icon BUILTIN="emoji-1F3B0"/>
 <edge COLOR="#00007c"/>
 <node TEXT="freiexchange" ID="ID_1824557321" CREATED="1618386707851" MODIFIED="1618386996415" LINK="https://freiexchange.com/market/BTM/BTC"/>
+<node TEXT="bisq" ID="ID_1737179929" CREATED="1618389387770" MODIFIED="1618389398174" LINK="https://bisq.network/"/>
+</node>
+<node TEXT="wallets" POSITION="right" ID="ID_1383026871" CREATED="1618391789126" MODIFIED="1618391824842">
+<icon BUILTIN="emoji-1F4B0"/>
+<edge COLOR="#007c00"/>
+<node TEXT="desktop" ID="ID_1376545695" CREATED="1618391845286" MODIFIED="1618391849982" LINK="https://github.com/project-bitmark/bitmark/releases/tag/v0.9.7.2"/>
+<node TEXT="brain" ID="ID_383771544" CREATED="1618391792156" MODIFIED="1618391794195" LINK="https://project-bitmark.github.io/brain/"/>
 </node>
 </node>
 </map>
