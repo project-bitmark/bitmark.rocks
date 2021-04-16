@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1428" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="1430" RULE="ON_BRANCH_CREATION"/>
 <font SIZE="18"/>
 <node TEXT="website" POSITION="left" ID="ID_1060112625" CREATED="1618386591344" MODIFIED="1618386933481">
 <icon BUILTIN="internet"/>
@@ -87,6 +87,15 @@
 <node TEXT="reddit" ID="ID_262634047" CREATED="1618391932248" MODIFIED="1618391934160" LINK="https://www.reddit.com/r/Bitmark/"/>
 <node TEXT="bitcoin talk forum thread" ID="ID_724372135" CREATED="1618391902100" MODIFIED="1618391914265" LINK="https://bitcointalk.org/index.php?topic=3169983.0"/>
 </node>
+<node TEXT="docs" POSITION="left" ID="ID_53419768" CREATED="1618566704246" MODIFIED="1618566718781">
+<icon BUILTIN="emoji-1F4D4"/>
+<edge COLOR="#7c7c00"/>
+<node TEXT="wiki" ID="ID_427769929" CREATED="1618566711065" MODIFIED="1618566713784" LINK="https://github.com/project-bitmark/bitmark/wiki"/>
+</node>
+<node TEXT="marking" LOCALIZED_STYLE_REF="AutomaticLayout.level,1" POSITION="right" ID="ID_525386330" CREATED="1618566696982" MODIFIED="1618566807644" LINK="https://github.com/project-bitmark/marking/wiki">
+<icon BUILTIN="family"/>
+<edge COLOR="#007c7c"/>
+</node>
 <node TEXT="source" POSITION="right" ID="ID_1630806653" CREATED="1618386621727" MODIFIED="1618386825250">
 <icon BUILTIN="emoji-1F528"/>
 <edge COLOR="#7c0000"/>
@@ -101,8 +110,16 @@
 <node TEXT="wallets" POSITION="right" ID="ID_1383026871" CREATED="1618391789126" MODIFIED="1618391824842">
 <icon BUILTIN="emoji-1F4B0"/>
 <edge COLOR="#007c00"/>
-<node TEXT="desktop" ID="ID_1376545695" CREATED="1618391845286" MODIFIED="1618391849982" LINK="https://github.com/project-bitmark/bitmark/releases/tag/v0.9.7.2"/>
 <node TEXT="brain" ID="ID_383771544" CREATED="1618391792156" MODIFIED="1618391794195" LINK="https://project-bitmark.github.io/brain/"/>
+<node TEXT="desktop" ID="ID_1376545695" CREATED="1618391845286" MODIFIED="1618391849982" LINK="https://github.com/project-bitmark/bitmark/releases/tag/v0.9.7.2">
+<node TEXT="connect nodes" ID="ID_335702249" CREATED="1618566613742" MODIFIED="1618566675122">
+<node TEXT="realtime" ID="ID_1534178807" CREATED="1618566644474" MODIFIED="1618566647592" LINK="https://chainetics.com/bitmark-nodes.php"/>
+<node TEXT="src/chainparams.cpp" ID="ID_1040641396" CREATED="1618566668500" MODIFIED="1618566668500"/>
+<node TEXT="port" ID="ID_1609171146" CREATED="1618566845142" MODIFIED="1618566846431">
+<node TEXT="9265" ID="ID_1214551580" CREATED="1618566847797" MODIFIED="1618566847797"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 </map>
