@@ -64,7 +64,7 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="1430" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="1431" RULE="ON_BRANCH_CREATION"/>
 <font SIZE="18"/>
 <node TEXT="website" POSITION="left" ID="ID_1060112625" CREATED="1618386591344" MODIFIED="1618386933481">
 <icon BUILTIN="internet"/>
@@ -120,6 +120,12 @@
 </node>
 </node>
 </node>
+</node>
+<node TEXT="apps" POSITION="right" ID="ID_625031095" CREATED="1619343778594" MODIFIED="1619343792550">
+<icon BUILTIN="ksmiletris"/>
+<edge COLOR="#ff0000"/>
+<node TEXT="timestamping bitmark one" ID="ID_79302981" CREATED="1619343794611" MODIFIED="1619343817315" LINK="https://timestamp.bitmark.one/"/>
+<node TEXT="git mark" ID="ID_569224008" CREATED="1619343819563" MODIFIED="1619343832492" LINK="https://git-mark.com/"/>
 </node>
 </node>
 </map>
