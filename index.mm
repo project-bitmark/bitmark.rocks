@@ -1,6 +1,6 @@
 <map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="bitmark.rocks" FOLDED="false" ID="ID_9134036" CREATED="1618386417863" MODIFIED="1618386814419" LINK="../../../../www.localhost/mm/2021/04/14/index.mm">
+<node TEXT="bitmark.rocks" FOLDED="false" ID="ID_9134036" CREATED="1618386417863" MODIFIED="1619344121870" LINK="https://bitmark.rocks/">
 <icon BUILTIN="bookmark"/>
 <edge STYLE="bezier" COLOR="#007c00" WIDTH="thin" DASH="SOLID"/>
 <hook NAME="MapStyle">
