@@ -75,9 +75,9 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://calendar.bitmark.one/" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://calendar.bitmark.one/&amp;source=gmail&amp;ust=1637061802430000&amp;usg=AOvVaw0kLKThnlyzbVzn6DM0b6f5">https://calendar.bitmark.one/</a>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#00ffff"/>
+<node TEXT="https://173.255.212.141/" ID="ID_696743683" CREATED="1636979052708" MODIFIED="1636979052708" LINK="https://173.255.212.141/"/>
 </node>
 <node TEXT="timestamp bitmark one" POSITION="right" ID="ID_1841841670" CREATED="1636980147524" MODIFIED="1636980182419" LINK="http://timestamp.bitmark.one/">
 <edge COLOR="#0000ff"/>
@@ -99,7 +99,6 @@
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://en.wikipedia.org/wiki/OpenTimestamps" target="_blank" data-saferedirecturl="https://www.google.com/url?q=https://en.wikipedia.org/wiki/OpenTimestamps&amp;source=gmail&amp;ust=1637062959516000&amp;usg=AOvVaw1TmcNLhzNX61o49O31DfMi">https://en.wikipedia.org/wiki/<wbr/>OpenTimestamps</a>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="https://opentimestamps.org/" ID="ID_578519927" CREATED="1636980245427" MODIFIED="1636980245427" LINK="https://opentimestamps.org/"/>
