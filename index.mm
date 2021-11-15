@@ -75,10 +75,11 @@
 <icon BUILTIN="emoji-1F4C1"/>
 <edge COLOR="#00ffff"/>
 <node TEXT="chainz" ID="ID_1364530620" CREATED="1618386616985" MODIFIED="1618386966992" LINK="https://chainz.cryptoid.info/marks/"/>
-<node TEXT="bitmark.co" ID="ID_281551312" CREATED="1618386805575" MODIFIED="1618386963218" LINK="https://explorer.bitmark.co/"/>
+<node TEXT="openmarks" ID="ID_603828367" CREATED="1636979316208" MODIFIED="1636979324079" LINK="https://blockchain.openmarks.com/info"/>
 <node TEXT="plots" ID="ID_387892306" CREATED="1618386792215" MODIFIED="1618386793755">
 <node TEXT="plots" ID="ID_696116134" CREATED="1618386794806" MODIFIED="1618386973287" LINK="https://explorer.bitmark.co/plots.week/"/>
 </node>
+<node TEXT="bitmark.co" ID="ID_281551312" CREATED="1618386805575" MODIFIED="1618386963218" LINK="https://explorer.bitmark.co/"/>
 </node>
 <node TEXT="community" POSITION="left" ID="ID_284041985" CREATED="1618391870340" MODIFIED="1618391877296">
 <icon BUILTIN="fema"/>
