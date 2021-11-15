@@ -125,7 +125,9 @@
 <node TEXT="apps" POSITION="right" ID="ID_625031095" CREATED="1619343778594" MODIFIED="1619343792550">
 <icon BUILTIN="ksmiletris"/>
 <edge COLOR="#ff0000"/>
-<node TEXT="timestamping bitmark one" ID="ID_79302981" CREATED="1619343794611" MODIFIED="1619343817315" LINK="https://timestamp.bitmark.one/"/>
+<node TEXT="timestamping bitmark one" ID="ID_669655322" CREATED="1636980133814" MODIFIED="1636980133815" LINK="timestamping.mm">
+<edge STYLE="bezier" COLOR="#ff0000" WIDTH="thin"/>
+</node>
 <node TEXT="git mark" ID="ID_569224008" CREATED="1619343819563" MODIFIED="1619343832492" LINK="https://git-mark.com/"/>
 </node>
 </node>
