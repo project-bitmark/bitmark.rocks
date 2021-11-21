@@ -134,6 +134,7 @@
 <edge STYLE="bezier" COLOR="#ff0000" WIDTH="thin"/>
 </node>
 <node TEXT="git mark" ID="ID_569224008" CREATED="1619343819563" MODIFIED="1619343832492" LINK="https://git-mark.com/"/>
+<node TEXT="use cases" ID="ID_1111945147" CREATED="1637495996323" MODIFIED="1637496013609" LINK="https://github.com/project-bitmark/use-cases/issues"/>
 </node>
 </node>
 </map>
